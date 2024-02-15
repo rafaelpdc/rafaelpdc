@@ -1,4 +1,5 @@
 <h1> Olá sou rafael Dias </h1>
+<h2> Desenvolvedor Front end</h2>
 
 <h3>Estou  em  transição de carreira, neste momento estou estudando HTML e CSS para que possa entrar na linguagem do JavaSript e futuramente no Node.Js.</h3>
 <p>trabalho na área como analista de sistemas, sou uma pessoa que procura estar atualizado, busco soluções com antecedência para que não aconteça problemas, procuro resolver de forma eficaz, sou proativo e não tenho dificuldades em trabalhar em grupo.✨</p>
