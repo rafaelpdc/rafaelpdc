@@ -8,6 +8,10 @@
 <a href="https://wa.me/5519999095060" rel="nofollow"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 <a href="https://www.linkedin.com/in/rafael-dias-pcd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpdc&langs_count=8) <br> <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpdc&show_icons=true&theme=transparent) 
+
+
 
 
 
