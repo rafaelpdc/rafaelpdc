@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/rafael-dias-pcd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpdc&langs_icons=true&theme=transparent) <br> <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpdc&show_icons=true&theme=transparent) 
+![Rafael Status](https://github-readme-stats.vercel.app/api?username=rafaelpdc&show_icons=true&theme=transparent) 
 
 
 
