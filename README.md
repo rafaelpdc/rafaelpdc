@@ -4,7 +4,7 @@
 <p>trabalho na área como analista de sistemas, sou uma pessoa que procura estar atualizado, busco soluções com antecedência para que não aconteça problemas, procuro resolver de forma eficaz, sou proativo e não tenho dificuldades em trabalhar em grupo.✨</p>
 
 
-<a href="rafadiaspdc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
+<a href="rafadiaspdc@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
 
 
 
